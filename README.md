@@ -10,3 +10,7 @@ git status
 
 ## Commit change
 git commit -m ""
+
+## more commands
+git log
+git log --oneline
